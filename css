@@ -1,0 +1,38 @@
+.bg {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    padding: 20px;
+
+}
+
+.head {
+    color: #690cb0;
+}
+
+.clock-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 25px;
+}
+
+.mini-container {
+    padding: 20px;
+    background-color: #f2ebfe;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.sub {
+    border-width: 0px;
+    margin-right: 30px;
+    background-color: #690cb0;
+    color: white;
+}
+
+.res {
+    border-width: 0px;
+}
